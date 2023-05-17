@@ -8,10 +8,17 @@ This is an LPC1768 project with the intent of interfacing with the SIM900A GSM m
 * Check balance: General function that can check user balance. Results are displayed on both LCD and SMS message.
 * Withdraw money: User can use keyboard matrix to enter upto 6 digit amount value. An SMS notification will be sent notifying user of successful withdrawl.
 
+# Pin Connections
+
+* 16x2 LCD: GPIO pins P0.23-P0.28
+* Keyboard matrix: GPIO row pins P2.10-2.13 and column pins P1.23-1.26
+* SIM900A: UART1 pins on P0.15 (TXD) and P0.16 (RXD)
+
 # Possible Future Work
 
 * Use GPRS to access database for data persistence.
 * Use TFT screen.
+* Use 4G/5G module offerings from SIMCOM (My pockets are not deep enough to purchase these)
 
 # Screenshots
 
