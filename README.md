@@ -12,3 +12,8 @@ This is an LPC1768 project with the intent of interfacing with the SIM900A GSM m
 
 * Use GPRS to access database for data persistence.
 * Use TFT screen.
+
+# Screenshots
+
+![image](https://github.com/Skryptonyte/ESBank/assets/40635533/ab200bd7-1353-4682-b2a3-00b9d03af4e4)
+![image](https://github.com/Skryptonyte/ESBank/assets/40635533/a6b77003-e7a6-43a7-9ca6-f78196bd5cbc)
