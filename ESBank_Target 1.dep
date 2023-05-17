@@ -1,0 +1,19 @@
+Dependencies for Project 'ESBank', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_LPC17xx.s)(0x50877CD6)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil_version4\ARM\RV31\INC -I C:\Keil_version4\ARM\CMSIS\Include -I C:\Keil_version4\ARM\Inc\NXP\LPC17xx --list "startup_LPC17xx.lst" --xref -o "startup_LPC17xx.o" --depend "startup_LPC17xx.d")
+F (C:\Keil_version4\ARM\Startup\NXP\LPC17xx\system_LPC17xx.c)(0x50877CD6)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil_version4\ARM\RV31\INC -I C:\Keil_version4\ARM\CMSIS\Include -I C:\Keil_version4\ARM\Inc\NXP\LPC17xx -o "system_lpc17xx.o" --omf_browse "system_lpc17xx.crf" --depend "system_lpc17xx.d")
+I (C:\Keil_version4\ARM\ARMCC\bin\..\include\stdint.h)(0x50F98478)
+I (C:\Keil_version4\ARM\Inc\NXP\LPC17xx\LPC17xx.h)(0x50877D02)
+I (C:\Keil_version4\ARM\CMSIS\Include\core_cm3.h)(0x50877EA6)
+I (C:\Keil_version4\ARM\CMSIS\Include\core_cmInstr.h)(0x50877EA6)
+I (C:\Keil_version4\ARM\CMSIS\Include\core_cmFunc.h)(0x50877EA6)
+I (C:\Keil_version4\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x50877D02)
+F (.\main.c)(0x64644289)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil_version4\ARM\RV31\INC -I C:\Keil_version4\ARM\CMSIS\Include -I C:\Keil_version4\ARM\Inc\NXP\LPC17xx -o "main.o" --omf_browse "main.crf" --depend "main.d")
+I (C:\Keil_version4\ARM\Inc\NXP\LPC17xx\lpc17xx.h)(0x50877D02)
+I (C:\Keil_version4\ARM\CMSIS\Include\core_cm3.h)(0x50877EA6)
+I (C:\Keil_version4\ARM\ARMCC\bin\..\include\stdint.h)(0x50F98478)
+I (C:\Keil_version4\ARM\CMSIS\Include\core_cmInstr.h)(0x50877EA6)
+I (C:\Keil_version4\ARM\CMSIS\Include\core_cmFunc.h)(0x50877EA6)
+I (C:\Keil_version4\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x50877D02)
+I (C:\Keil_version4\ARM\ARMCC\bin\..\include\string.h)(0x50F98478)
+I (C:\Keil_version4\ARM\ARMCC\bin\..\include\stdlib.h)(0x50F98478)
+I (C:\Keil_version4\ARM\ARMCC\bin\..\include\stdio.h)(0x50F98478)
